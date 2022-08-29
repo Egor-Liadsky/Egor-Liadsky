@@ -20,7 +20,7 @@ val Egor_Lyadskiy = developer {
         RxJava, Kotlin Coroutines
         Dagger2, Hilt
         Retrofit + REST
-        Ktor
+        Ktor, Room
         Git
     }
 }
