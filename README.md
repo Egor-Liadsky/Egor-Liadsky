@@ -2,10 +2,10 @@
 ```kotlin
 val Egor_Lyadskiy = developer {
     about {
-        name = "Egor Lyadskiy"
-        age = 16
+        firstName = "Egor"
+        lastName = "Lyadskiy"
     }
-    tech("Kotlin", "Android")
+    tech("Kotlin", "Android", "Spring Boot")
     links {
         telegram = "@egor_lyadskiy"
         vk = "vk.com/zafires"
