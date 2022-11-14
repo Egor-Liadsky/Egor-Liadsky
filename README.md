@@ -8,7 +8,7 @@ val Egor_Lyadskiy = developer {
     tech("Kotlin", "Android", "Spring Boot")
     links {
         telegram = "@egor_lyadskiy"
-        vk = "vk.com/zafires"
+        vk = "vk.com/egor.lyadskiy"
     }
 }
 ```
