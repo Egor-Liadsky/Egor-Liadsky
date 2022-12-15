@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/terrakok/terrakok/master/about.png"> More about me
+## More about me
 ```kotlin
 val Egor_Lyadskiy = developer {
     about {
