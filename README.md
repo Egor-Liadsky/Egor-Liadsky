@@ -5,7 +5,7 @@ val Egor_Lyadskiy = developer {
         firstName = "Egor"
         lastName = "Lyadskiy"
     }
-    tech("Kotlin", "Android", "Spring Boot")
+    tech("Kotlin", "Android", "Ktor")
     links {
         telegram = "@egor_lyadskiy"
         vk = "vk.com/egor.lyadskiy"
