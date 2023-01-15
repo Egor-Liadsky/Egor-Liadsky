@@ -8,7 +8,7 @@ val Egor_Lyadskiy = developer {
     tech("Kotlin", "Android", "Ktor")
     links {
         telegram = "@egor_lyadskiy"
-        vk = "vk.com/egor.lyadskiy"
+        vk = "vk.com/egor.lyadsky"
     }
 }
 ```
