@@ -13,4 +13,3 @@ val Egor_Lyadskiy = developer {
 }
 ```
 
-
