@@ -3,11 +3,18 @@
 val Egor_Lyadskiy = developer {
     about {
         firstName = "Egor"
-        lastName = "Lyadskiy"
+        lastName = "Lyadsky"
     }
-    tech("Kotlin", "Android", "Ktor", "Spring")
+    tech(
+        "Kotlin", "Android", "Ktor", "Kotlin Multiplatform",
+        "Jetpack Compose", "Koin", "SqlDelight", "Room",
+        "Hilt Dagger", "Retrofit", "Shared Preferences",
+        "MVVM", "MVI", "MVP",
+        "REST-API", "GraphQL",
+        "Kotlin Coroutines", "Firebase", etc.
+    )
     links {
-        telegram = "@egor_lyadskiy"
+        telegram = "@egor.lyadsky"
         vk = "vk.com/egor.lyadsky"
     }
 }
